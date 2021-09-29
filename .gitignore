@@ -1,0 +1,16 @@
+# File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
+
+### macOS ###
+# General
+.DS_Store
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/*.code-snippets
+*.code-workspace
+
+
+
+
