@@ -27,7 +27,8 @@ Data Structure & Algorithm Playground
 2. Sorting
 3. Recursion
 4. Dynamic Programming
-5. Famous Algorithms
+5. Greedy Algorithms
+6. Famous Algorithms
 
 ## Others
 
