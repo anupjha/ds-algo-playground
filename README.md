@@ -1,4 +1,4 @@
-Data Structure & Algorithm Playground
+### Data Structure & Algorithm Playground for JS Developers
 
 #### Difficulty Levels
 
